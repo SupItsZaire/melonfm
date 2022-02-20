@@ -1,0 +1,30 @@
+{
+  "name": "@SupItsZaire/melonfm",
+  "version": "1.0",
+  "description": "wip melonfm grabber radio",
+  "main": "index.js",
+  "keywords": [
+    "discord",
+    "music",
+    "bot",
+    "24/7",
+    "SHOUTcast",
+    "radio"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SupItsZaire/melonfm.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zaire" ,
+  "dependencies": {
+    "cron": "^1.8.2",
+    "discord.js": "^12.1.1",
+    "ffmpeg": "0.0.4",
+    "fluent-ffmpeg": "^2.1.2",
+    "icy": "^2.1.0",
+    "opusscript": "^0.0.6"
+  }
+}
